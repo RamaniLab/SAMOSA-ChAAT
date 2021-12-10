@@ -1,6 +1,8 @@
 Studying chromatin remodeling at single-fiber resolution using SAMOSA-ChAAT
 =====================
-![SAMOSA-ChAAT logo](samosa_chaat_logo.png)
+<p align="center">
+  <img src="samosa_chaat_logo.png" alt="SAMOSA-ChAAT logo"/>
+</p>
 
 The following README documents code & analyses performed in (and are largely reproduced from the methods section therein):
 
